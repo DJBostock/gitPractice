@@ -1,1 +1,3 @@
-console.log("test");
+let currentYear = new Date().getFullYear();
+
+document.getElementById("currentYear").innerText = currentYear;
