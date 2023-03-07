@@ -1,3 +1,7 @@
+body {
+  background-color: aliceblue;
+}
+
 .front-image {
-    max-width: 25%;
+  max-width: 25%;
 }
