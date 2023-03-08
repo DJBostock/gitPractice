@@ -3,5 +3,6 @@ body {
 }
 
 .front-image {
+  border-radius: 50%;
   max-width: 25%;
 }
