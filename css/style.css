@@ -6,5 +6,11 @@ body {
 .front-image {
   border: 2px solid black;
   border-radius: 50%;
-  max-width: 25%;
+  display: block;
+  margin: 10px auto;
+  max-width: 200px;
+}
+
+.img-container {
+  width: 100%;
 }
